@@ -289,7 +289,7 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 }
 MobileAdTargetingInfo targetingInfo = MobileAdTargetingInfo(
-  keywords: <String>['grocery', 'insurance'],
+  keywords: <String>['grocery', 'insurance','games'],
   contentUrl: 'https://flutter.io',
   childDirected: false,
   testDevices: <String>[], // Android emulators are considered test devices

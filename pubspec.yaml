@@ -18,6 +18,8 @@ environment:
 
 dependencies:
   firebase_admob: ^0.9.0+7
+  path_provider: ^1.4.5
+  sqflite: ^1.1.7+3
   
 
   cloud_firestore:
